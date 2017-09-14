@@ -1,3 +1,8 @@
 hello praowww! eiei
 praowwwww 
+<<<<<<< HEAD
 mo eieiei
+=======
+
+สุเจตมาเยือน <3
+>>>>>>> 384db1096edd138dbcd3152ff73faae22458488c
